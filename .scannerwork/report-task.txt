@@ -2,5 +2,5 @@ projectKey=go-project
 serverUrl=http://localhost:9000
 serverVersion=10.6.0.92116
 dashboardUrl=http://localhost:9000/dashboard?id=go-project
-ceTaskId=3c6cc785-2c4d-4d24-bcfb-7ca10f5c84d7
-ceTaskUrl=http://localhost:9000/api/ce/task?id=3c6cc785-2c4d-4d24-bcfb-7ca10f5c84d7
+ceTaskId=f399ff56-8e5c-4a07-ab48-9d94c4cdce73
+ceTaskUrl=http://localhost:9000/api/ce/task?id=f399ff56-8e5c-4a07-ab48-9d94c4cdce73
